@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarfathy22&label=Profile%20views&color=0e75b6&style=flat" alt="omarfathy22" /> </p>
 
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
 - 🌱 I’m currently learning **MERN STACK , REACT NATIVE**
 
 - 👨‍💻 All of my projects are available at [https://omarfathy.pages.dev/](https://omarfathy.pages.dev/)
 
 - 💬 Ask me about **MERN STACK**
 
-## <img src="https://github.com/Helmy-JR/Abdelrahman-Helmy/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width = 6.5%> Contact with me
 <p align="center">
 	<a href="mailto:omar.fathy.web@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/OmarFathy22"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -17,7 +19,7 @@
 	<a href="https://www.linkedin.com/in/omar-fathy-a3b987223/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width = 6.5%> My Competitive Programming Profiles
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/HelmyJr"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
