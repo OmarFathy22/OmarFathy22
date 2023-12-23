@@ -9,10 +9,6 @@
 
 - 💬 Ask me about **MERN STACK**
 
-- 📫 How to reach me **omar.fathy.web@gmail.com**
-
-
-
 ## <img src="https://github.com/Helmy-JR/Abdelrahman-Helmy/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:omar.fathy.web@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
