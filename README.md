@@ -7,7 +7,6 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/omar-fathy-a3b987223/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:omar.fathy.web@gmail.com" title="Stack Overflow Profile"><img width="22" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">Email</a></code>
   <code><a href="https://leetcode.com/omar2222002/" title="HackerRank Profile"><img width="22" src="images/leetcode.png"> LeetCode</a></code>
   <code><a href="https://codeforces.com/profile/Omar-Fathy" title="HackerRank Profile"><img width="22" src="images/codeforces.png"> CodeForces</a></code>
 </h5>
@@ -62,7 +61,7 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfathy22&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-  <br>
+  <br><br>
   
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfathy22&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
