@@ -46,20 +46,18 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align="center">
+<p align="center">
+  <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=omarfathy22&theme=react&border=61dafb&hide_border=true" alt="omarfathy22" />
+      <img width="390" src="https://streak-stats.demolab.com/?user=omarfathy22&theme=react&border=61dafb&hide_border=true" alt="omarfathy22" />
     </a>
     <a href="https://github.com/omarfathy22/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=omarfathy22&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=omarfathy22&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  </div> 
- 
-  
- <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfathy22&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
- </div>
+  </div>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfathy22&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </p>
 
 <hr>
