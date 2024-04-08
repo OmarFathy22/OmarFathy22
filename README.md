@@ -50,12 +50,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img height="195" src="https://streak-stats.demolab.com/?user=omarfathy22&theme=react&border=61dafb&hide_border=true" alt="omarfathy22" />
+        <img height="195" src="https://streak-stats.demolab.com/?user=omarfathy22&theme=react&border=0000&hide_border=true" alt="omarfathy22" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/omarfathy22/github-readme-stats" title="Go to Source">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=omarfathy22&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=omarfathy22&show_icons=true&theme=react&border_color=0000&hide_border=true" alt="omarfathy22" />
       </a>
     </td>
   </tr>
