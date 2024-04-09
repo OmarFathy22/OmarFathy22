@@ -40,7 +40,10 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mongodb.png"></code>
+  <code><img title="MySQL" height="25" src="images/express.png"></code>
+  <code><img title="MySQL" height="25" src="images/nodejs.png"></code>
+  <code><img title="MySQL" height="25" src="images/firebase.png"></code>
 </p>
 <hr>
 
