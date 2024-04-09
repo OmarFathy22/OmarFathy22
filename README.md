@@ -40,10 +40,11 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mongodb.png"></code>
-  <code><img title="MySQL" height="25" src="images/express.png"></code>
-  <code><img title="MySQL" height="25" src="images/nodejs.png"></code>
-  <code><img title="MySQL" height="25" src="images/firebase.png"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb.png"></code>
+  <code><img title="Express.js" height="25" src="images/express.png"></code>
+  <code><img title="Node.js" height="25" src="images/nodejs.png"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.png"></code>
+  <code><img title="Subabase" height="25" src="images/subabase.png"></code>
 </p>
 <hr>
 
