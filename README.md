@@ -15,7 +15,7 @@
   Hi, I'm Omar Fathy, Software Developer 
   <br>
   <br>
-🔬 I am a Computer Science student at Suez Canal University. <br> currently learning Golang and working on my graduation project.
+🔬 I am a Computer Science student at Suez Canal University. <br> currently working on my graduation project.
   <br>
   📫 How to reach me: <a href="mailto:omar.fathy.web@gmail.com">omarfathy@hotmail.com</a>
 </p>
