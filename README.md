@@ -14,7 +14,6 @@
 <p align="center">
   Hi, I'm Omar Fathy, Software Developer 
   <br>
-  <br>
    I graduated from [Faculty of Computers & Informatics] at [Suez Canal University]
   <br>
   📫 How to reach me: <a href="mailto:omar.fathy.web@gmail.com">omarfathy@hotmail.com</a>
