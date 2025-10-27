@@ -1,16 +1,16 @@
 # Hi there, I'm Omar Fathy 👋
 
-## DevOps Engineer | Cloud Architecture Enthusiast | AWS Certified
+## DevOps Engineer | Cloud Architecture Enthusiast | ITI Trainee
 
 I'm a passionate Cloud/DevOps Engineer based in Cairo, Egypt, specializing in building scalable, resilient infrastructure and automating deployment pipelines. With hands-on experience across the full DevOps lifecycle, I focus on transforming infrastructure challenges into elegant, automated solutions.
 
 ### 🚀 About Me
 
 - 🎓 **Computer Science Graduate** from Suez Canal University (Very Good with Honors)
-- 🏆 **ITI Graduate** - Intensive Code Camps (ICC) - System Administration Track
-- ☁️ Certified **AWS Solutions Architect** & **Cloud Practitioner**
-- 🎖️ **Red Hat Certified System Administrator (RHCSA)**
-- 💼 Currently seeking opportunities in **DevOps/Cloud Engineering roles**
+- 🏆 **ITI Trainee** - Intensive Code Camps (ICC) - System Administration Track *(Graduating November 2025)*
+- ☁️ **AWS Certified Cloud Practitioner**
+- 📚 Currently preparing for **AWS Solutions Architect** & **RHCSA** certifications
+- 💼 Actively seeking opportunities in **DevOps/Cloud Engineering roles**
 - 🌱 Continuously expanding my expertise in **Kubernetes, Terraform, and AWS services**
 - 📍 Open to remote opportunities and relocation
 
@@ -142,11 +142,16 @@ Designed and automated a complete Kubernetes cluster with full DevOps toolchain:
 
 ## 🎓 Certifications
 
-- ☁️ **AWS Certified Solutions Architect**
+**Current:**
 - ☁️ **AWS Certified Cloud Practitioner**
+
+**In Progress** *(Expected: December 2025)*
+- ☁️ **AWS Certified Solutions Architect - Associate**
 - 🎖️ **Red Hat Certified System Administrator (RHCSA)**
-- 🌐 **CCNA** - Cisco Certified Network Associate
-- 🖥️ **MCSA** - Microsoft Certified Solutions Associate
+
+**Additional Training:**
+- 🌐 **CCNA** - Cisco Certified Network Associate (ITI)
+- 🖥️ **MCSA** - Microsoft Certified Solutions Associate (ITI)
 
 ---
 
