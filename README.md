@@ -144,9 +144,10 @@ Designed and automated a complete Kubernetes cluster with full DevOps toolchain:
 
 **Current:**
 - ☁️ **AWS Certified Cloud Practitioner**
-
-**In Progress** *(Expected: December 2025)*
 - ☁️ **AWS Certified Solutions Architect - Associate**
+
+
+**In Progress** *(Expected: November 2025)*
 - 🎖️ **Red Hat Certified System Administrator (RHCSA)**
 
 **Additional Training:**
@@ -165,7 +166,7 @@ Designed and automated a complete Kubernetes cluster with full DevOps toolchain:
 - Supported regional branches with incident resolution
 
 **IT Support Intern** | Xceed *(Jul 2024 - Oct 2024)*
-- Managed Active Directory and user workstations
+- Helped in managing Active Directory and user workstations
 - Diagnosed and resolved hardware/software issues
 - Installed and configured systems for optimal performance
 
