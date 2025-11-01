@@ -9,7 +9,7 @@ I'm a passionate Cloud/DevOps Engineer based in Cairo, Egypt, specializing in bu
 - 🎓 **Computer Science Graduate** from Suez Canal University (Very Good with Honors)
 - 🏆 **ITI Trainee** - Intensive Code Camps (ICC) - System Administration Track *(Graduating November 2025)*
 - ☁️ **AWS Certified Cloud Practitioner**
-- 📚 Currently preparing for **AWS Solutions Architect** & **RHCSA** certifications
+- ☁️ **AWS Certified Solutions Architect - Associate**
 - 💼 Actively seeking opportunities in **DevOps/Cloud Engineering roles**
 - 🌱 Continuously expanding my expertise in **Kubernetes, Terraform, and AWS services**
 - 📍 Open to remote opportunities and relocation
