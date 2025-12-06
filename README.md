@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Fathy 👋
 
-## DevOps Engineer | Cloud Architecture Enthusiast | ITI Trainee
+## DevOps Engineer | Certified AWS Solutions Archetict | Redhat Certified System Administrator | ITI Graduate
 
 I'm a passionate Cloud/DevOps Engineer based in Cairo, Egypt, specializing in building scalable, resilient infrastructure and automating deployment pipelines. With hands-on experience across the full DevOps lifecycle, I focus on transforming infrastructure challenges into elegant, automated solutions.
 
